@@ -1,1 +1,1 @@
-# DataScience_internship_poject
+# DataScience_internship_proj_1
